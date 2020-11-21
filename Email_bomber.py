@@ -8,7 +8,7 @@ print ("\033[1;31m|##|_____   |##|      |##|   /##/    \##\    __|##|__   |##|__
 print ("\033[1;31m|########|  |##|      |##|  /##/      \##\  |########|  |##########| _|__| |__| |  | _|__| |__  |  \    \033[1;m")
 
 try:
-    bomb_email = input("Enter Email address on Whom you want to perfom this attack: ")
+    bomb_email = input("Enter Email address on Whom you want to perfom this attack:bulius.2016@gmail.com ")
     email = input("Enter your gmail_address:")
     password = input("Enter your gmail_password:")
     message = input("Enter Message:")
